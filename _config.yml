@@ -53,8 +53,8 @@ description: "DigitalArc Community Archiving Template - Demo Site"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "DigitalArc"
-authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
+author: "AstridPortfolio"
+authorname : "Astrid Hughes"
 sitelogo: site_logo.jpg
 placeholderimg: placeholder.png
 
@@ -94,10 +94,10 @@ google_g4_analytics_id: G-LVREG1Y1DT
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
-#fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
+fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
-fontchoice: roboto # A clean sans-serif font with simple serif accents
+#fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
@@ -107,9 +107,9 @@ fontchoice: roboto # A clean sans-serif font with simple serif accents
 
 #colorchoice: dusk # Dusky purple and olive green
 #colorchoice: lavenderred # Purple-grey with orange-red
-#colorchoice: leafgreen # Leafy green and medium brown
+colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: marigold # Near-black with marigold yellow
-colorchoice: navy # Navy with bright teal and grey
+#colorchoice: navy # Navy with bright teal and grey
 #colorchoice: red # Black, crimson and grey
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
@@ -118,11 +118,11 @@ colorchoice: navy # Navy with bright teal and grey
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-accentchoice: accent-darkred # Dark red
+#accentchoice: accent-darkred # Dark red
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
-#accentchoice: accent-brown # Warm brown
+accentchoice: accent-brown # Warm brown
 #accentchoice: accent-green # Kelly green
 #accentchoice: accent-navy # Navy blue
 #accentchoice: accent-blue # Medium blue

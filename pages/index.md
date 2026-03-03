@@ -6,7 +6,7 @@ permalink: /
 
 Wow look at how cute **Winnie** is!!!
 
-She is
+She is:
 - Awesome
 - Cute
 - The Best
